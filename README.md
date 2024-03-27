@@ -24,7 +24,7 @@ By the end of this project, you should be able to answer:
 - **6-8**: Implement functions to traverse a binary tree using pre-order, in-order, and post-order methods.
 - **9**: Implement a function to measure the height of a binary tree.
 - **10**: Implement a function to measure the depth of a node in a binary tree.
-- **11**: Implement a function to measure the size of a binary tree.
+- **11**: Implement a function to measure the size of a binary tree..
 - **12**: Implement a function to count the leaves in a binary tree.
 - **13**: Implement a function to count the nodes with at least one child in a binary tree.
 - **14**: Implement a function to measure the balance factor of a binary tree.
